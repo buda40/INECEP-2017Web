@@ -3,7 +3,7 @@
 /* Contact form script configuartion */
 
 // Enter your email, where you want to receive the messages.
-$contact_email_to = "jaaochoadu@gmail.com";
+$contact_email_to = "a.haarstrick@tu‐bs.de, afosorioar@unal.edu.co";
 
 // Subject prefix
 $contact_subject_prefix = "Contat Form Message: ";
